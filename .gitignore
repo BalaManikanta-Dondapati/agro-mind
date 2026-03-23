@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/
+
+# Data (large / unnecessary)
+data/images/
+data/satellite_unused_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual env
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log

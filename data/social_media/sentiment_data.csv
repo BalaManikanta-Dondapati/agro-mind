@@ -1,0 +1,151 @@
+text,label,clean_text,predicted_label,sentiment_score
+crop is healthy and growing well,1,crop is healthy and growing well,1,0.9998693466186523
+plants are green and strong,1,plants are green and strong,1,0.999883770942688
+good rainfall and irrigation support,1,good rainfall and irrigation support,1,0.9998225569725037
+soil condition is excellent,1,soil condition is excellent,1,0.9998356103897095
+yield looks promising this season,1,yield looks promising this season,1,0.9988963603973389
+no pest or disease observed,1,no pest or disease observed,1,0.959865927696228
+crop growth is uniform and dense,1,crop growth is uniform and dense,1,0.9982682466506958
+very good vegetation across field,1,very good vegetation across field,1,0.9998486042022705
+leaves are fresh and green,1,leaves are fresh and green,1,0.9997754693031311
+farmer is satisfied with crop condition,1,farmer is satisfied with crop condition,1,0.988524854183197
+growth rate is high and stable,1,growth rate is high and stable,1,0.9998708963394165
+no water shortage issues,1,no water shortage issues,1,0.9903454184532166
+plants look strong and disease free,1,plants look strong and disease free,1,0.9992838501930237
+excellent crop performance,1,excellent crop performance,1,0.9998260140419006
+field is fully green and healthy,1,field is fully green and healthy,1,0.9998612403869629
+crop is in best condition,1,crop is in best condition,1,0.9984630346298218
+good sunlight and water supply,1,good sunlight and water supply,1,0.9998165965080261
+plants are thriving very well,1,plants are thriving very well,1,0.9998800754547119
+fertilizer worked effectively,1,fertilizer worked effectively,1,0.9997339844703674
+crop health is very good,1,crop health is very good,1,0.9998468160629272
+all plants are growing evenly,1,all plants are growing evenly,1,0.9997937083244324
+healthy leaves and stems observed,1,healthy leaves and stems observed,1,0.998785674571991
+crop is performing above expectations,1,crop is performing above expectations,1,0.9979442954063416
+green cover is dense,1,green cover is dense,-1,-0.977732241153717
+no visible damage in field,1,no visible damage in field,-1,-0.9475275278091431
+crop maturity is progressing well,1,crop maturity is progressing well,1,0.9998020529747009
+plants are robust and strong,1,plants are robust and strong,1,0.9998847246170044
+field condition is ideal,1,field condition is ideal,1,0.9998478889465332
+high productivity expected,1,high productivity expected,1,0.9907626509666443
+crop health is excellent,1,crop health is excellent,1,0.9998505115509033
+growth is consistent across field,1,growth is consistent across field,1,0.999869704246521
+water supply is sufficient,1,water supply is sufficient,1,0.9990686774253845
+no stress signs observed,1,no stress signs observed,1,0.9719611406326294
+plants are in perfect condition,1,plants are in perfect condition,1,0.9997403025627136
+crop is flourishing well,1,crop is flourishing well,1,0.9997921586036682
+farmer is happy with yield,1,farmer is happy with yield,1,0.999864935874939
+uniform growth pattern,1,uniform growth pattern,1,0.9997809529304504
+no pest infestation,1,no pest infestation,1,0.997459352016449
+field looks vibrant green,1,field looks vibrant green,1,0.9998669624328613
+crop condition is optimal,1,crop condition is optimal,1,0.9995187520980835
+good environmental conditions,1,good environmental conditions,1,0.9998506307601929
+plants are fully developed,1,plants are fully developed,1,0.9998144507408142
+no issues in growth,1,no issues in growth,-1,-0.8969018459320068
+healthy root system observed,1,healthy root system observed,1,0.9994334578514099
+crop is stable and strong,1,crop is stable and strong,1,0.9998704195022583
+field is well maintained,1,field is well maintained,1,0.9998286962509155
+plants show strong growth,1,plants show strong growth,1,0.9998700618743896
+crop is in peak condition,1,crop is in peak condition,1,0.9949668049812317
+excellent vegetation index,1,excellent vegetation index,1,0.9998372793197632
+no damage or dryness,1,no damage or dryness,1,0.9841078519821167
+crop is okay but needs improvement,0,crop is okay but needs improvement,-1,-0.9450826048851013
+growth is uneven in some areas,0,growth is uneven in some areas,-1,-0.9995144605636597
+water supply is irregular,0,water supply is irregular,-1,-0.9984546899795532
+some plants are weaker,0,some plants are weaker,-1,-0.9979887008666992
+average crop performance observed,0,average crop performance observed,1,0.664398193359375
+minor pest issues present,0,minor pest issues present,-1,-0.9926964044570923
+moderate yield expected,0,moderate yield expected,1,0.9566996097564697
+crop is not fully healthy,0,crop is not fully healthy,-1,-0.9997360110282898
+some dryness observed,0,some dryness observed,-1,-0.9918485879898071
+partial green and dry leaves,0,partial green and dry leaves,-1,-0.9907943606376648
+growth is inconsistent,0,growth is inconsistent,-1,-0.6497014164924622
+soil condition is average,0,soil condition is average,-1,-0.9778650999069214
+plants need better care,0,plants need better care,-1,-0.9958428740501404
+some areas are underdeveloped,0,some areas are underdeveloped,-1,-0.9978578686714172
+moderate irrigation available,0,moderate irrigation available,1,0.997979462146759
+crop condition is acceptable,0,crop condition is acceptable,1,0.9995265007019043
+yield may be average,0,yield may be average,1,0.8115610480308533
+plants are not uniform,0,plants are not uniform,-1,-0.9995361566543579
+slight stress observed,0,slight stress observed,-1,-0.9658272862434387
+needs better water management,0,needs better water management,-1,-0.9993398785591125
+growth is slow in few areas,0,growth is slow in few areas,-1,-0.9993274211883545
+minor disease symptoms seen,0,minor disease symptoms seen,-1,-0.9921695590019226
+plants are partially healthy,0,plants are partially healthy,1,0.9982561469078064
+field condition is mixed,0,field condition is mixed,-1,-0.9984210729598999
+some damage observed,0,some damage observed,-1,-0.9966660141944885
+crop is neither good nor bad,0,crop is neither good nor bad,-1,-0.9709343910217285
+moderate vegetation cover,0,moderate vegetation cover,1,0.9943069815635681
+uneven crop density,0,uneven crop density,-1,-0.9996838569641113
+plants require attention,0,plants require attention,1,0.8738420009613037
+some leaves are drying,0,some leaves are drying,-1,-0.9557808041572571
+growth is below expectation,0,growth is below expectation,-1,-0.5259382128715515
+partial pest infestation,0,partial pest infestation,-1,-0.9980954527854919
+crop is stable but not strong,0,crop is stable but not strong,-1,-0.6956135034561157
+some areas lack nutrients,0,some areas lack nutrients,-1,-0.9988861680030823
+moderate growth rate,0,moderate growth rate,1,0.9995368719100952
+crop health is average,0,crop health is average,1,0.9152064919471741
+field needs improvement,0,field needs improvement,-1,-0.9955516457557678
+plants are weak in patches,0,plants are weak in patches,-1,-0.9994587302207947
+irregular rainfall affected crop,0,irregular rainfall affected crop,-1,-0.9353328943252563
+slightly poor performance,0,slightly poor performance,-1,-0.9997715353965759
+growth is moderate,0,growth is moderate,1,0.9991577863693237
+crop condition is manageable,0,crop condition is manageable,1,0.993894636631012
+needs better irrigation,0,needs better irrigation,-1,-0.9986989498138428
+plants are not fully developed,0,plants are not fully developed,-1,-0.9996548891067505
+moderate stress present,0,moderate stress present,-1,-0.9553852081298828
+field shows mixed results,0,field shows mixed results,-1,-0.9991559982299805
+crop needs monitoring,0,crop needs monitoring,-1,-0.9881333708763123
+not fully healthy condition,0,not fully healthy condition,-1,-0.9997273087501526
+growth is not consistent,0,growth is not consistent,-1,-0.993874728679657
+average vegetation observed,0,average vegetation observed,1,0.9142754673957825
+crop is drying due to lack of water,-1,crop is drying due to lack of water,-1,-0.9990377426147461
+plants are severely damaged,-1,plants are severely damaged,-1,-0.9996927976608276
+no rainfall and drought conditions,-1,no rainfall and drought conditions,-1,-0.9110775589942932
+heavy pest attack observed,-1,heavy pest attack observed,-1,-0.9966250658035278
+crop is in very poor condition,-1,crop is in very poor condition,-1,-0.9996669292449951
+leaves are completely dry,-1,leaves are completely dry,-1,-0.9997262358665466
+plants are dying,-1,plants are dying,-1,-0.9995914101600647
+very low yield expected,-1,very low yield expected,-1,-0.999554455280304
+soil is too dry,-1,soil is too dry,-1,-0.9997377991676331
+crop failure likely,-1,crop failure likely,-1,-0.9997338652610779
+severe water shortage,-1,severe water shortage,-1,-0.9985741376876831
+disease has spread widely,-1,disease has spread widely,-1,-0.9731311202049255
+plants are weak and broken,-1,plants are weak and broken,-1,-0.999325156211853
+field is almost dry,-1,field is almost dry,-1,-0.9992759823799133
+no proper irrigation,-1,no proper irrigation,-1,-0.9997459053993225
+crop is under stress,-1,crop is under stress,-1,-0.9936043620109558
+leaves are turning yellow,-1,leaves are turning yellow,-1,-0.9983139038085938
+major pest infestation,-1,major pest infestation,-1,-0.9985575079917908
+crop is deteriorating,-1,crop is deteriorating,-1,-0.9996780157089233
+plants are not growing,-1,plants are not growing,-1,-0.999699592590332
+field condition is very bad,-1,field condition is very bad,-1,-0.9998114705085754
+growth has stopped,-1,growth has stopped,-1,-0.9995942711830139
+extreme heat damaged crop,-1,extreme heat damaged crop,-1,-0.9993357062339783
+no signs of recovery,-1,no signs of recovery,-1,-0.9996949434280396
+plants are wilted,-1,plants are wilted,1,0.9680984616279602
+crop is collapsing,-1,crop is collapsing,-1,-0.9997568726539612
+very poor vegetation,-1,very poor vegetation,-1,-0.9998000264167786
+damage is irreversible,-1,damage is irreversible,-1,-0.9994602799415588
+crop health is critical,-1,crop health is critical,-1,-0.9932189583778381
+field is almost barren,-1,field is almost barren,-1,-0.9993429780006409
+plants are extremely weak,-1,plants are extremely weak,-1,-0.9997327923774719
+water scarcity affected growth,-1,water scarcity affected growth,-1,-0.9738309383392334
+no green cover left,-1,no green cover left,-1,-0.9981853365898132
+crop is failing badly,-1,crop is failing badly,-1,-0.9997497200965881
+severe dryness observed,-1,severe dryness observed,-1,-0.999482274055481
+plants are not surviving,-1,plants are not surviving,-1,-0.9990960359573364
+field is degraded,-1,field is degraded,-1,-0.999729573726654
+low productivity expected,-1,low productivity expected,-1,-0.9996159076690674
+crop is in worst condition,-1,crop is in worst condition,-1,-0.9997658133506775
+no support from rainfall,-1,no support from rainfall,-1,-0.9996492862701416
+plants are lifeless,-1,plants are lifeless,-1,-0.9997784495353699
+field is damaged heavily,-1,field is damaged heavily,-1,-0.999630331993103
+growth is completely halted,-1,growth is completely halted,-1,-0.9997466206550598
+crop is beyond recovery,-1,crop is beyond recovery,-1,-0.9987298846244812
+soil moisture is zero,-1,soil moisture is zero,-1,-0.9993575215339661
+plants are dead,-1,plants are dead,-1,-0.9997050166130066
+extreme stress condition,-1,extreme stress condition,-1,-0.9972546696662903
+crop is completely damaged,-1,crop is completely damaged,-1,-0.9996863603591919
+no vegetation left,-1,no vegetation left,-1,-0.9973686933517456
+very bad field condition,-1,very bad field condition,-1,-0.9997962117195129

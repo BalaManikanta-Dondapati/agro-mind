@@ -1,0 +1,151 @@
+text,label,sentiment_score,sentiment_label
+crop is healthy and growing well,1,0.5,Positive
+plants are green and strong,1,0.11666666666666664,Positive
+good rainfall and irrigation support,1,0.7,Positive
+soil condition is excellent,1,1.0,Positive
+yield looks promising this season,1,0.2,Positive
+no pest or disease observed,1,0.0,Neutral
+crop growth is uniform and dense,1,0.0,Neutral
+very good vegetation across field,1,0.9099999999999999,Positive
+leaves are fresh and green,1,0.04999999999999999,Positive
+farmer is satisfied with crop condition,1,0.5,Positive
+growth rate is high and stable,1,0.16,Positive
+no water shortage issues,1,0.0,Neutral
+plants look strong and disease free,1,0.41666666666666663,Positive
+excellent crop performance,1,1.0,Positive
+field is fully green and healthy,1,0.15,Positive
+crop is in best condition,1,1.0,Positive
+good sunlight and water supply,1,0.7,Positive
+plants are thriving very well,1,0.2,Positive
+fertilizer worked effectively,1,0.6,Positive
+crop health is very good,1,0.9099999999999999,Positive
+all plants are growing evenly,1,0.0,Neutral
+healthy leaves and stems observed,1,0.5,Positive
+crop is performing above expectations,1,0.0,Neutral
+green cover is dense,1,-0.2,Negative
+no visible damage in field,1,0.0,Neutral
+crop maturity is progressing well,1,0.0,Neutral
+plants are robust and strong,1,0.4333333333333333,Positive
+field condition is ideal,1,0.9,Positive
+high productivity expected,1,0.03,Positive
+crop health is excellent,1,1.0,Positive
+growth is consistent across field,1,0.25,Positive
+water supply is sufficient,1,0.0,Neutral
+no stress signs observed,1,0.0,Neutral
+plants are in perfect condition,1,1.0,Positive
+crop is flourishing well,1,0.0,Neutral
+farmer is happy with yield,1,0.8,Positive
+uniform growth pattern,1,0.0,Neutral
+no pest infestation,1,0.0,Neutral
+field looks vibrant green,1,-0.016666666666666677,Negative
+crop condition is optimal,1,0.0,Neutral
+good environmental conditions,1,0.7,Positive
+plants are fully developed,1,0.1,Positive
+no issues in growth,1,0.0,Neutral
+healthy root system observed,1,0.5,Positive
+crop is stable and strong,1,0.4333333333333333,Positive
+field is well maintained,1,0.0,Neutral
+plants show strong growth,1,0.4333333333333333,Positive
+crop is in peak condition,1,0.0,Neutral
+excellent vegetation index,1,1.0,Positive
+no damage or dryness,1,0.0,Neutral
+crop is okay but needs improvement,0,0.5,Positive
+growth is uneven in some areas,0,-0.2,Negative
+water supply is irregular,0,0.0,Neutral
+some plants are weaker,0,0.0,Neutral
+average crop performance observed,0,-0.15,Negative
+minor pest issues present,0,-0.025,Negative
+moderate yield expected,0,-0.05,Negative
+crop is not fully healthy,0,0.5,Positive
+some dryness observed,0,0.0,Neutral
+partial green and dry leaves,0,-0.12222222222222223,Negative
+growth is inconsistent,0,0.0,Neutral
+soil condition is average,0,-0.15,Negative
+plants need better care,0,0.5,Positive
+some areas are underdeveloped,0,0.0,Neutral
+moderate irrigation available,0,0.2,Positive
+crop condition is acceptable,0,0.0,Neutral
+yield may be average,0,-0.15,Negative
+plants are not uniform,0,0.0,Neutral
+slight stress observed,0,-0.16666666666666666,Negative
+needs better water management,0,0.5,Positive
+growth is slow in few areas,0,-0.25,Negative
+minor disease symptoms seen,0,-0.05,Negative
+plants are partially healthy,0,0.5,Positive
+field condition is mixed,0,0.0,Neutral
+some damage observed,0,0.0,Neutral
+crop is neither good nor bad,0,5.551115123125783e-17,Positive
+moderate vegetation cover,0,0.0,Neutral
+uneven crop density,0,-0.2,Negative
+plants require attention,0,0.0,Neutral
+some leaves are drying,0,0.0,Neutral
+growth is below expectation,0,0.0,Neutral
+partial pest infestation,0,-0.1,Negative
+crop is stable but not strong,0,-0.21666666666666665,Negative
+some areas lack nutrients,0,0.0,Neutral
+moderate growth rate,0,0.0,Neutral
+crop health is average,0,-0.15,Negative
+field needs improvement,0,0.0,Neutral
+plants are weak in patches,0,-0.375,Negative
+irregular rainfall affected crop,0,0.0,Neutral
+slightly poor performance,0,-0.4,Negative
+growth is moderate,0,0.0,Neutral
+crop condition is manageable,0,0.0,Neutral
+needs better irrigation,0,0.5,Positive
+plants are not fully developed,0,0.1,Positive
+moderate stress present,0,0.0,Neutral
+field shows mixed results,0,0.0,Neutral
+crop needs monitoring,0,0.0,Neutral
+not fully healthy condition,0,0.5,Positive
+growth is not consistent,0,-0.125,Negative
+average vegetation observed,0,-0.15,Negative
+crop is drying due to lack of water,-1,-0.125,Negative
+plants are severely damaged,-1,0.0,Neutral
+no rainfall and drought conditions,-1,0.0,Neutral
+heavy pest attack observed,-1,-0.2,Negative
+crop is in very poor condition,-1,-0.52,Negative
+leaves are completely dry,-1,-0.06666666666666665,Negative
+plants are dying,-1,0.0,Neutral
+very low yield expected,-1,-0.05,Negative
+soil is too dry,-1,-0.06666666666666665,Negative
+crop failure likely,-1,-0.15833333333333335,Negative
+severe water shortage,-1,0.0,Neutral
+disease has spread widely,-1,-0.1,Negative
+plants are weak and broken,-1,-0.3875,Negative
+field is almost dry,-1,-0.06666666666666665,Negative
+no proper irrigation,-1,0.0,Neutral
+crop is under stress,-1,0.0,Neutral
+leaves are turning yellow,-1,0.0,Neutral
+major pest infestation,-1,0.0625,Positive
+crop is deteriorating,-1,0.0,Neutral
+plants are not growing,-1,0.0,Neutral
+field condition is very bad,-1,-0.9099999999999998,Negative
+growth has stopped,-1,0.0,Neutral
+extreme heat damaged crop,-1,-0.125,Negative
+no signs of recovery,-1,0.0,Neutral
+plants are wilted,-1,0.0,Neutral
+crop is collapsing,-1,0.0,Neutral
+very poor vegetation,-1,-0.52,Negative
+damage is irreversible,-1,0.0,Neutral
+crop health is critical,-1,0.0,Neutral
+field is almost barren,-1,0.0,Neutral
+plants are extremely weak,-1,-0.375,Negative
+water scarcity affected growth,-1,0.0,Neutral
+no green cover left,-1,0.05,Positive
+crop is failing badly,-1,-0.6999999999999998,Negative
+severe dryness observed,-1,0.0,Neutral
+plants are not surviving,-1,0.0,Neutral
+field is degraded,-1,0.0,Neutral
+low productivity expected,-1,-0.05,Negative
+crop is in worst condition,-1,-1.0,Negative
+no support from rainfall,-1,0.0,Neutral
+plants are lifeless,-1,0.0,Neutral
+field is damaged heavily,-1,-0.2,Negative
+growth is completely halted,-1,0.1,Positive
+crop is beyond recovery,-1,0.0,Neutral
+soil moisture is zero,-1,0.0,Neutral
+plants are dead,-1,-0.2,Negative
+extreme stress condition,-1,-0.125,Negative
+crop is completely damaged,-1,0.1,Positive
+no vegetation left,-1,0.0,Neutral
+very bad field condition,-1,-0.9099999999999998,Negative
