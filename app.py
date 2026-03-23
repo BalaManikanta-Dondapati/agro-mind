@@ -20,7 +20,7 @@ le = joblib.load("models/label_encoder.pkl")
 # -------------------------------
 # LOAD SENTIMENT DATA
 # -------------------------------
-sentiment_df = pd.read_csv("data/social_media/sentiment_text.csv")
+sentiment_df = pd.read_csv("data/social_media/Sentiment_Text.csv")
 
 # -------------------------------
 # TITLE
