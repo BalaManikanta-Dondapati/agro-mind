@@ -53,6 +53,12 @@ Deployed using Streamlit Cloud (Live Demo coming soon 🚀)
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://agro-mind-capstone.streamlit.app
+
+---
+
 ## 📌 Use Case
 
 Helps farmers and researchers:
